@@ -5,7 +5,7 @@ born : "22/11/1993 - Tehran" ,
 currently at : "Tehran & Alborz",
 status : "Open For Job Offers",
 skills : ["HTML","CSS","SASS","TAILWIND","JS","TS","REACT","NEXT","GIT","..."],
-howToContact : ["E-Mail" , "Phone : +989375008682" , "t.me/pouryasoleimani2"]
+howToContact : ["E-Mail" , "Phone : +989375008682" , "t.me/pouryasoleimani2"],
 }
 ```
 <div align="center">
@@ -25,5 +25,3 @@ howToContact : ["E-Mail" , "Phone : +989375008682" , "t.me/pouryasoleimani2"]
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/190887795-99cb0921-e57f-430b-a111-e165deedaa36.png" alt="Ant Design" title="Ant Design"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm"/>
 </div>
----
-Thanks for Visiting my Github Page 🙏🙏🙏
