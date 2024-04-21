@@ -1,4 +1,5 @@
-🧑🏻const me  = {
+```javascript
+const me  = {
 name : "Pourya Soleimani" ,
 born : "22/11/1993 - Tehran" , 
 currently at : "Tehran & Alborz",
@@ -6,8 +7,9 @@ status : "Open For Job Offers",
 skills : ["HTML","CSS","SASS","TAILWIND","JS","TS","REACT","NEXT","GIT","..."]
 howToContact : ["E-Mail" , "Phone : +989375008682" , "t.me/pouryasoleimani2"]
 }
+```
 
-##SKILLS
+SKILLS
 <div align="center">
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/>
