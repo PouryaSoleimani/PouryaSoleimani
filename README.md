@@ -47,3 +47,7 @@ ___
 ![](https://img.shields.io/github/languages/count/PouryaSoleimani/Adidas-Project-React-JS?style=for-the-badge&color=darkred)
 
 
+___
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PouryaSoleimani)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=tokyonight)
+
