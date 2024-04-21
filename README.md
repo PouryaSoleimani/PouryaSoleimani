@@ -67,4 +67,6 @@ ___
 ___
 
 <h2>Contact Via :</h2>
-<a href='https://t.me/pouryasoleimani2'><img src='https://img.shields.io/badge/Telegram-@pouryasoleimani2-blue?style=flat-square&logo=telegram'></a>
+<p align='center'>
+<a href='https://t.me/pouryasoleimani2'><img src='https://img.shields.io/badge/Telegram-@pouryasoleimani2-blue?style=flat-square&logo=telegram'></a>  <img src='https://img.shields.io/badge/whatsapp-+989375008682-green?style=flat-square&logo=whatsapp'>  <img src='https://img.shields.io/badge/GMAIL-pouryasoleimani93@gmail.com-red?style=flat-square&logo=gmail'>  <img src='https://img.shields.io/badge/Instagram-pouryasoleimani_-red?style=flat-square&logo=instagram'>
+</p>
