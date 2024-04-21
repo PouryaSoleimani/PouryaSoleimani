@@ -2,7 +2,7 @@
 const me  = {
 name : "Pourya Soleimani" ,
 born : "22/11/1993 - Tehran" , 
-currently at : "Tehran & Alborz",
+currentlyAt : "Tehran & Alborz",
 status : "Open For Job Offers",
 skills : ["HTML","CSS","SASS","TAILWIND","JS","TS","REACT","NEXT","GIT","..."],
 howToContact : ["E-Mail" , "Phone : +989375008682" , "t.me/pouryasoleimani2"],
