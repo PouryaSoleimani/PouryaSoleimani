@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/Junior%20FrontEnd%20Developer-darkred)
+
 ```javascript
 const me  = {
 name : "Pourya Soleimani" ,
@@ -8,7 +10,7 @@ skills : ["HTML","CSS","SASS","TAILWIND","JS","TS","REACT","NEXT","GIT","..."],
 howToContact : ["E-Mail" , "Phone : +989375008682" , "t.me/pouryasoleimani2"],
 }
 ```
-![](https://img.shields.io/badge/Junior%20FrontEnd%20Developer-darkred)
+
 ___
 🌱As a Junior Front-End Developer , I am Passionate about Creating Modern and Creative look Website that Brings a Unique sense to Client , With  proficiency in React.js , I have developed various projects that demonstrate my creativity , special attention to details and improving technical skills , I approach every project with a problem-solving mindest , striving to find the best unique and suitable UI for that specific project , while ensuring optimal preferences and scalability , My ability to work collaboratively in a Team set , enables me to contact and cooperate with my colleagians easily .
 
