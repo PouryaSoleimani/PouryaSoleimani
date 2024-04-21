@@ -49,5 +49,5 @@ ___
 
 ___
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PouryaSoleimani)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PouryaSoleimani&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
