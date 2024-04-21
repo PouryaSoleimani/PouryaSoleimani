@@ -9,6 +9,7 @@ currentlyAt : "Tehran & Alborz",
 status : "Open For Job Offers",
 skills : ["HTML","CSS","SASS","TAILWIND","JS","TS","REACT","NEXT","GIT","..."],
 howToContact : ["E-Mail" , "Phone : +989375008682" , "t.me/pouryasoleimani2"],
+hobbys : ["Coding","Drinking Coffee"],
 }
 ```
 
