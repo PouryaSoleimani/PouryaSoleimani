@@ -38,3 +38,6 @@ ___
 	<img width="50" src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" alt="Vite" title="Vite"/>
 	<img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/ecd443af-ebba-4af8-a46e-1bf64d863b5b" alt="Babel" title="Babel"/>
 </div>
+___
+![](https://img.shields.io/github/commit-activity/w/PouryaSoleimani/PouryaSoleimani?style=for-the-badge)
+
