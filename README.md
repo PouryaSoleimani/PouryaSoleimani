@@ -1,5 +1,15 @@
 ># Hi 🙋🏻‍♂️ , I'm Pourya Soleimani
 ![](https://img.shields.io/badge/Junior%20FrontEnd%20Developer-darkred)
+<h2>👩🏻‍💻 About me : </h2>
+<ul>
+	<li>🟥 Junior Front-End Developer</li>
+	<li>🎓 Bachelor Degree Of English Translation</li>
+	<li>💻 Currently Learning More in Next.js</li>
+	<li>✅ Availabe For hire</li>
+	<li>☕ My Hobbies are Coding and Drinking Coffe</li>
+</ul>
+
+___
 
 ```javascript
 const me  = {
@@ -19,6 +29,7 @@ ___
 
 
 ___
+<h3>🔧 Tech Stack :</h3>
 
 <div align="center">
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
@@ -44,12 +55,16 @@ ___
 
 ___
 
+<h3> 🏆 GitHub Status : </h3>
+
 ![](https://img.shields.io/github/created-at/PouryaSoleimani/RESULT-SUMMARY?style=for-the-badge&color=green)
 ![](https://img.shields.io/github/commit-activity/w/PouryaSoleimani/PouryaSoleimani?style=for-the-badge)
 ![](https://img.shields.io/github/languages/count/PouryaSoleimani/Adidas-Project-React-JS?style=for-the-badge&color=darkred)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PouryaSoleimani&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PouryaSoleimani&layout=compact&theme=tokyonight)
 
 ___
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PouryaSoleimani&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PouryaSoleimani&layout=compact&theme=tokyonight)
+<h2>Contact Via :</h2>
+<a href='https://t.me/pouryasoleimani2'><img src='https://img.shields.io/badge/Telegram-@pouryasoleimani2-blue?style=flat-square&logo=telegram'></a>
