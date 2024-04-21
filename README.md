@@ -44,4 +44,6 @@ ___
 
 ![](https://img.shields.io/github/created-at/PouryaSoleimani/RESULT-SUMMARY?style=for-the-badge&color=green)
 ![](https://img.shields.io/github/commit-activity/w/PouryaSoleimani/PouryaSoleimani?style=for-the-badge)
+![](https://img.shields.io/github/languages/count/PouryaSoleimani/Adidas-Project-React-JS?style=for-the-badge&color=darkred)
+
 
