@@ -8,6 +8,12 @@ skills : ["HTML","CSS","SASS","TAILWIND","JS","TS","REACT","NEXT","GIT","..."],
 howToContact : ["E-Mail" , "Phone : +989375008682" , "t.me/pouryasoleimani2"],
 }
 ```
+🌱As a Junior Front-End Developer , I am Passionate about Creating Modern and Creative look Website that Brings a Unique sense to Client , With  proficiency in React.js , I have developed various projects that demonstrate my creativity , special attention to details and improving technical skills , I approach every project with a problem-solving mindest , striving to find the best unique and suitable UI for that specific project , while ensuring optimal preferences and scalability , My ability to work collaboratively in a Team set , enables me to contact and cooperate with my colleagians easily .
+
+
+
+
+
 <div align="center">
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/>
