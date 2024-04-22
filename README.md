@@ -6,7 +6,7 @@
 	<li>🎓 Bachelor Degree Of English Translation</li>
 	<li>💻 Currently Learning More in Next.js</li>
 	<li>✅ Availabe For hire</li>
-	<li>☕ My Hobbies are Coding and Drinking Coffe</li>
+	<li>☕ My Hobbies are Coding and Drinking Coffee</li>
 </ul>
 
 ___
