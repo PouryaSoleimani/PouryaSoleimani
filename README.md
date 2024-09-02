@@ -31,7 +31,7 @@ ___
 ___
 <h3>🔧 Tech Stack :</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,less,bootstrap,tailwind,js,ts,react,redux,nextjs,git,github,gitlab,regex,figma,npm,docker,postman,vite,materialui,styledcomponents,stackoverflow,pnpm,codepen,bun,vercel,netlify,md,linkedin,vscode&perline=25&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,less,bootstrap,tailwind,js,ts,react,redux,nextjs,git,github,gitlab,regex,figma,npm,docker,postman,vite,materialui,styledcomponents,stackoverflow,pnpm,codepen,bun,vercel,netlify,md,linkedin,vscode&perline=31&theme=dark)](https://skillicons.dev)
 
 
 ___
