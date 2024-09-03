@@ -30,8 +30,13 @@ ___
 
 ___
 <h3>🔧 Tech Stack :</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,less,bootstrap,tailwind,js,ts,react,redux,nextjs,git,github,gitlab,regex,figma,npm,docker,postman,vite,materialui,styledcomponents,stackoverflow,pnpm,codepen,bun,vercel,netlify,md,vscode&perline=15&theme=dark" />
+  </a>
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,less,bootstrap,tailwind,js,ts,react,redux,nextjs,git,github,gitlab,regex,figma,npm,docker,postman,vite,materialui,styledcomponents,stackoverflow,pnpm,codepen,bun,vercel,netlify,md,vscode,linkedin&perline=31&theme=dark)](https://skillicons.dev)
+<!--[![My Skills](https://skillicons.dev/icons?i=html,css,sass,less,bootstrap,tailwind,js,ts,react,redux,nextjs,git,github,gitlab,regex,figma,npm,docker,postman,vite,materialui,styledcomponents,stackoverflow,pnpm,codepen,bun,vercel,netlify,md,vscode,linkedin&perline=31&theme=dark)](https://skillicons.dev)-->
 
 
 ___
