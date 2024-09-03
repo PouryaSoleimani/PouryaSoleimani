@@ -41,7 +41,6 @@ ___
 ![](https://img.shields.io/github/created-at/PouryaSoleimani/RESULT-SUMMARY?style=for-the-badge&color=green)
 ![](https://img.shields.io/github/commit-activity/w/PouryaSoleimani/PouryaSoleimani?style=for-the-badge)
 ![](https://img.shields.io/github/languages/count/PouryaSoleimani/Adidas-Project-React-JS?style=for-the-badge&color=darkred)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PouryaSoleimani&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PouryaSoleimani&layout=compact&theme=tokyonight)
 
