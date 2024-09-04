@@ -2,7 +2,7 @@
 ![](https://img.shields.io/badge/Junior%20FrontEnd%20Developer-darkred)
 <h2>👩🏻‍💻 About me : </h2>
 <ul>
-	<li>🟥 Junior Front-End Developer</li>
+	<li>🟥 Junior Front-End Developer </li>
 	<li>🎓 Bachelor Degree Of English Translation</li>
 	<li>💻 Currently Learning More in Next.js</li>
 	<li>✅ Availabe For hire</li>
