@@ -32,7 +32,7 @@ ___
 <h3>🔧 Tech Stack :</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,less,bootstrap,tailwind,js,ts,react,redux,nextjs,git,github,gitlab,regex,figma,npm,docker,postman,vite,materialui,styledcomponents,stackoverflow,pnpm,codepen,bun,vercel,netlify,md,vscode&perline=16&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,less,bootstrap,tailwind,js,ts,react,redux,nextjs,git,github,gitlab,regex,figma,npm,docker,postman,vite,materialui,styledcomponents,stackoverflow,pnpm,codepen,bun,vercel,netlify,md,babel,firebase,vscode&perline=16&theme=dark" />
   </a>
 </p>
 
