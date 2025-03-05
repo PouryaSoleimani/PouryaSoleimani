@@ -1,5 +1,5 @@
 ># Hi 🙋🏻‍♂️ , I'm Pourya Soleimani
-![](https://img.shields.io/badge/Junior%20FrontEnd%20Developer-darkred)
+![](https://img.shields.io/badge/FrontEnd%20Developer-darkred)
 <h2>👩🏻‍💻 About me : </h2>
 <ul>
 	<li>🟥 Front-End Developer </li>
