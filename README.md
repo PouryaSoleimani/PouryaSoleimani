@@ -2,11 +2,13 @@
 ![](https://img.shields.io/badge/FrontEnd%20Developer-darkred)
 <h2>👩🏻‍💻 About me : </h2>
 <ul>
-	<li>🟥 Front-End Developer </li>
+	<li>🟦 Front-End Developer (React.js , Next.js)</li>
 	<li>🎓 Bachelor Degree Of Software Engineering</li>
 	<li>💻 Currently Learning More in Next.js</li>
 	<li>✅ Availabe For hire</li>
+	<li>🧠 Always Passionate to Learn New Things </li>
 	<li>☕ My Hobbies are Coding and Drinking Coffee</li>
+	<li>📞 Feel Free to Contact Me : +989375008682 (Telegram & Whatsapp) </li>
 </ul>
 
 ___
