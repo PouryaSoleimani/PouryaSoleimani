@@ -3,7 +3,7 @@
 <h2>👩🏻‍💻 About me : </h2>
 <ul>
 	<li>🟥 Front-End Developer </li>
-	<li>🎓 Bachelor Degree Of English Translation</li>
+	<li>🎓 Bachelor Degree Of Software Engineering</li>
 	<li>💻 Currently Learning More in Next.js</li>
 	<li>✅ Availabe For hire</li>
 	<li>☕ My Hobbies are Coding and Drinking Coffee</li>
