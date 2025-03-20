@@ -10,7 +10,8 @@
 	<li>☕ My Hobbies are Coding and Drinking Coffee</li>
 	<li>📞 Feel Free to Contact Me : +989375008682 (Telegram & Whatsapp) </li>
 </ul>
-
+___
+![Github Stats](https://greptile-stats.vercel.app/api/widget/PouryaSoleimani/stats)
 ___
 
 ```javascript
@@ -24,7 +25,8 @@ howToContact : ["E-Mail" , "Phone : +989375008682" , "t.me/pouryasoleimani2"],
 hobbys : ["Coding","Drinking Coffee"],
 }
 ```
-
+___
+![Github Quirk](https://greptile-stats.vercel.app/api/widget/PouryaSoleimani/quirk)
 ___
 🌱As a Junior Front-End Developer , I am Passionate about Creating Modern and Creative look Website that Brings a Unique sense to Client , With  proficiency in React.js , I have developed various projects that demonstrate my creativity , special attention to details and improving technical skills , I approach every project with a problem-solving mindest , striving to find the best unique and suitable UI for that specific project , while ensuring optimal preferences and scalability , My ability to work collaboratively in a Team set , enables me to contact and cooperate with my colleagians easily .
 
