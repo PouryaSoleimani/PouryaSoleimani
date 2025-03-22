@@ -32,7 +32,6 @@ ___
 🌱As a Junior Front-End Developer , I am Passionate about Creating Modern and Creative look Website that Brings a Unique sense to Client , With  proficiency in React.js , I have developed various projects that demonstrate my creativity , special attention to details and improving technical skills , I approach every project with a problem-solving mindest , striving to find the best unique and suitable UI for that specific project , while ensuring optimal preferences and scalability , My ability to work collaboratively in a Team set , enables me to contact and cooperate with my colleagians easily .
 
 
-
 ___
 <h3>🔧 Tech Stack :</h3>
 <p align="center">
