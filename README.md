@@ -34,11 +34,11 @@ ___
 
 ___
 <h3>🔧 Tech Stack :</h3>
-<p align="center">
+<!-- <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,sass,less,bootstrap,tailwind,js,ts,react,redux,nextjs,git,github,gitlab,npm,pnpm,bun,webpack,vite,postman,regex,docker,materialui,styledcomponents,figma,firebase,vercel,netlify,md,babel,stackoverflow,codepen,vscode,linkedin,instagram,gmail&perline=12&theme=dark" />
   </a>
-</p>
+</p> -->
 <!-- <div align="center">
 <img width="46" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png" alt="HTTP" title="HTTP"/>
 
@@ -103,6 +103,14 @@ ___
 <img width="46" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/>
 </div> 
 -->
+
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=html,css,less,sass,bootstrap,tailwindcss,javascript,typescript,angular,primeng,react,redux,nextjs,git,github,gitlab,npm,pnpm,bun,webpack,vite,postman,regex,docker,materialui,styledcomponents,figma,firebase,vercel,netlify,md,babel,stackoverflow,codepen,vscode,linkedin,instagram,gmail&perline=12&theme=dark"
+    />
+  </a>
+</p>
 <!--[![My Skills](https://skillicons.dev/icons?i=html,css,sass,less,bootstrap,tailwind,js,ts,react,redux,nextjs,git,github,gitlab,regex,figma,npm,docker,postman,vite,materialui,styledcomponents,stackoverflow,pnpm,codepen,bun,vercel,netlify,md,babel,firebase,vscode,linkedin&perline=33&align=center&theme=dark)](https://skillicons.dev)-->
 ___
 
