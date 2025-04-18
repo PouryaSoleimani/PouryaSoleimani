@@ -8,7 +8,7 @@
 	<li>✅ Availabe For hire</li>
 	<li>🧠 Always Passionate to Learn New Things </li>
 	<li>☕ My Hobbies are Coding and Drinking Coffee</li>
-	<li>📞 Feel Free to Contact Me : +989375008682 (Telegram & Whatsapp) </li>
+	<li>📞 Feel Free to Contact Me : +989375008682 ( Telegram & Whatsapp ) </li>
 </ul>
 
 
