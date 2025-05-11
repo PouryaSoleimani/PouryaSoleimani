@@ -36,7 +36,7 @@ ___
 <h3>🔧 Tech Stack :</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,less,bootstrap,tailwind,js,ts,react,redux,nextjs,git,github,gitlab,npm,pnpm,bun,jest,webpack,vite,postman,regex,docker,ubuntu,materialui,styledcomponents,figma,firebase,vercel,netlify,md,babel,stackoverflow,codepen,linkedin,mint&perline=12&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,less,bootstrap,tailwind,js,ts,react,redux,nextjs,git,github,gitlab,npm,pnpm,bun,jest,webpack,vite,postman,regex,docker,ubuntu,materialui,styledcomponents,figma,firebase,vercel,netlify,md,babel,stackoverflow,codepen,linkedin,gmail&perline=12&theme=dark" />
   </a>
 </p>
 
