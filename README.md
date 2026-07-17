@@ -1,5 +1,5 @@
 ># Hi 🙋🏻‍♂️ , I'm Pourya Soleimani
-![](https://img.shields.io/badge/FrontEnd%20Developer-darkred)
+![](https://img.shields.io/badge/FULL_STACK_DEVELOPER(NEXT.JS/ASP.NET_CORE)%20Developer-darkred)
 <h2>👩🏻‍💻 About me : </h2>
 <ul>
 	<li>🟦 Front-End Developer (React.js , Next.js)</li>
@@ -36,7 +36,7 @@ ___
 <h3>🔧 Tech Stack :</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,less,bootstrap,tailwind,js,ts,react,redux,nextjs,git,github,gitlab,npm,pnpm,bun,jest,webpack,vite,postman,regex,docker,linux,materialui,styledcomponents,figma,firebase,vercel,netlify,md,babel,stackoverflow,codepen,linkedin,gmail&perline=12&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,less,bootstrap,tailwind,js,ts,react,nextjs,cs,dotnet,redis,rabbitmq,git,github,gitlab,npm,pnpm,bun,jest,webpack,vite,postman,regex,docker,linux,materialui,styledcomponents,figma,firebase,vercel,netlify,md,babel,stackoverflow,codepen,linkedin,gmail&perline=12&theme=dark" />
   </a>
 </p>
 
