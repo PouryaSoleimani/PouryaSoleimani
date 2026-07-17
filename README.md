@@ -1,5 +1,5 @@
 ># Hi 🙋🏻‍♂️ , I'm Pourya Soleimani
-![](https://img.shields.io/badge/FULL_STACK_DEVELOPER(NEXT.JS/ASP.NET_CORE)%20Developer-darkred)
+![](https://img.shields.io/badge/FULL_STACK_DEVELOPER(NEXT.JS/ASP.NET_CORE)%20Developer-violet)
 <h2>👩🏻‍💻 About me : </h2>
 <ul>
 	<li>🟦 Front-End Developer (React.js , Next.js)</li>
