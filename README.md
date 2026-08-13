@@ -1,10 +1,10 @@
 ># Hi 🙋🏻‍♂️ , I'm Pourya Soleimani
-![](https://img.shields.io/badge/FULL_STACK_DEVELOPER%20(NEXT.JS%20/%20ASP.NET_CORE)-violet)
+![](https://img.shields.io/badge/FULL_STACK_DEVELOPER%20(NEXT.JS%20/%20NEST.JS)-red)
 <h2>👩🏻‍💻 About me : </h2>
 <ul>
-	<li>🟦 Front-End Developer (React.js , Next.js)</li>
+	<li>🟦 FullStack Developer (Next.js / Nest.js)</li>
 	<li>🎓 Bachelor Degree Of Software Engineering</li>
-	<li>💻 Currently Learning More in Next.js</li>
+	<li>💻 Currently Learning Devops</li>
 	<li>✅ Availabe For hire</li>
 	<li>🧠 Always Passionate to Learn New Things </li>
 	<li>☕ My Hobbies are Coding and Drinking Coffee</li>
